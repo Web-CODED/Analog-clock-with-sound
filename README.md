@@ -1,4 +1,4 @@
-# Analog-clock-with-sound (Animation)
+# Analog-clock-with-sound (Animated)
 An analog clock designed in HTML and CSS with sound effect.
 
 ## Setup of the project: clone or copy the whole code and run into your specific IDE (mine fav is VS-CODE)
